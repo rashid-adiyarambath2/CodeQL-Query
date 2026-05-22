@@ -1,5 +1,5 @@
 name: "Code Scanning - Action"
-
+init:
 on:
   pull_request:
     branches: [main]
